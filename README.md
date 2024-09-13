@@ -1,2 +1,2 @@
-# Starter code
-The code contains the initial HTML and CSS structure for the token launchpad.
+# SOLAN TOKEN LAUNCHPAD
+I am currently working ui/ux in this we have just used the same ui as harkirat sir provided, still working on it.
